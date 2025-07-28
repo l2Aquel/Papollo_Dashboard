@@ -49,4 +49,4 @@ Billing Amount Vs Health Insurance Amount: Line chart comparing billing and heal
 - **Financial Health** : Offers a clear comparison of billing versus insurance payouts, crucial for revenue cycle management and financial forecasting.
 
 ## 6. Screenshots / Demos
-![https://github.com/l2Aquel/AdventureWorks_Dashboard/blob/main/AdventureWorks_preview.png](AdventureWorks_preview.png)
+![https://github.com/l2Aquel/Papollo_Dashboard/blob/main/Papollo_dashboard.png](Papollo_dashboard.png)
